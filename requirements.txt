@@ -1,0 +1,10 @@
+torch==2.9.1+cu128
+diffusers==0.35.2
+transformers==4.45.2
+accelerate==1.11.0
+huggingface-hub==0.27.0
+safetensors==0.4.5
+Pillow==10.2.0
+tqdm==4.66.4
+streamlit==1.37.0
+cloudflared==2025.X.X   # optional
