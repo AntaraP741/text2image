@@ -63,7 +63,7 @@ Inappropriate or harmful prompt generation should be avoided.
 
 ---
 
-## 📧 Contact
+## Contact
 
 Antara Prasad  
 Email: antaraprasad2017@gmail.com
